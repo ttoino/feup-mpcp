@@ -1,4 +1,4 @@
-# FEUP-PROG
+# FEUP-MPCP
 
 Weekly exercises from the MPCP course unit at FEUP.
 
